@@ -1,2 +1,2 @@
 # connectedin
-Exemplo de rede social usando Gjango
+Exemplo de rede social usando Django
